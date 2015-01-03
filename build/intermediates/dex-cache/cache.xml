@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chown_chmod1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/chown_chmod1/AndroidStudioProjects/CriminalIntent_ch_20/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2a9972b1da0a669275e37bc19b6489d18e4ab3eb.jar" />
+    </item>
+    <item
+        jar="/Users/chown_chmod1/AndroidStudioProjects/CriminalIntent_ch_20/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/chown_chmod1/AndroidStudioProjects/CriminalIntent_ch_20/app/build/intermediates/pre-dexed/debug/classes-ced83e0802635a423dc908130c20bcdfc34a0442.jar" />
+    </item>
+
+</items>
